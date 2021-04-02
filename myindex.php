@@ -11,6 +11,8 @@
     <body>
         <h1>Bem Vindo a pagina inicial do site</h1>
         <br>
+        <a href="/users/user">Pagina de usuário</a>
+        <br><br>
         <form action="/login">
             <input type="email" name="email" value="exemplo@email.com" required>
             <button type="submit">Login</button>

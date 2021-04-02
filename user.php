@@ -10,7 +10,8 @@
     </head>
     <body>
         <h1>Bem vindo a pagina de usuario</h1>
-        
+        <br>
+        <a href="/">Pagina inicial</a>
         <script src="" async defer></script>
     </body>
 </html>
