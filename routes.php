@@ -25,7 +25,7 @@ Route::add('/join', function(){
 
 
 Route::add('/login', function(){
-    include('login.php');
+    include('./login.php');
    
 });
 
